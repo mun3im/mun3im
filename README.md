@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @mun3im
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mun3im/mun3im is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in bioacoustics and machine learning
+- 💞️ I’m looking to collaborate on smart acoustic recording units (SARU) and lightweight bird recognition CNNs
+- 📫 Contact me by chatting here
