@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mun3im
-- 👀 I’m interested in bioacoustics and machine learning
-- 💞️ I’m looking to collaborate on smart autonomous recording units (SARU) and lightweight bird recognition CNNs
-- 📫 Contact me by chatting here
+- 👀 My interest are bioacoustics, embedded systems & machine learning
+- 💞️ I’m looking to collaborate on my ARGUS project
+- 📫 email mzabidi@gmail.com
